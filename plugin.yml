@@ -1,9 +1,9 @@
-name: EasyKits
+name: EasyKits-REMAKED
 main: AndreasHGK\EasyKits\EasyKits
 version: 1.1.6
-api: [3.9.0,4.0.0]
+api: ["4.0.0"]
 load: POSTWORLD
-author: AndreasHGK
+author: Real Author: AndreasHGK RemakeD Author: HyperArenaMC
 description: A kit plugin for everyone
 website: http://hgk.me/
 softdepend:
